@@ -6,7 +6,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 💻 My Skill Set  
 
 
 
@@ -31,8 +31,25 @@
 
 <br/>  
 
+<br/>  
 
-## Connect with me  
+
+## 🛠 Инструменты:
+<div align="center">  
+  
+</div>
+
+<div align="center">  
+<a title="Visual Studio Code" href="#" target="_blank"><img style="margin: 10px" src="https://github.com/MAKSIMUS1/maksimus1/blob/main/assets/Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="50" /></a>
+<a title="Visual Studio" href="#" target="_blank"><img style="margin: 10px" src="https://github.com/MAKSIMUS1/maksimus1/blob/main/assets/vst.png" alt="Visual Studio" height="50" /></a>
+<a title="Figma" href="#" target="_blank"><img style="margin: 10px" src="https://github.com/MAKSIMUS1/maksimus1/blob/main/assets/figma.png" alt="Figma" height="50" /></a>
+<a title="Git" href="#" target="_blank"><img style="margin: 10px" src="https://github.com/MAKSIMUS1/maksimus1/blob/main/assets/git.png" alt="Git" height="50" /></a>
+</div>
+
+
+<br/>  
+
+## 🤝 Connect with me  
 <div align="center">
 <a href="https://github.com/maksimus1" target="Github">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
